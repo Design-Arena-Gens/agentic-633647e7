@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kitoko Packer</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_sign_out">Sign Out</string>
+    <string name="action_export_csv">Export CSV</string>
+    <string name="scan_again">Scan Again</string>
+    <string name="order_packed">Order Packed</string>
+</resources>
